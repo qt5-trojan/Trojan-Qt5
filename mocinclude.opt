@@ -1,0 +1,44 @@
+-IC:/Qt/5.14.2/msvc2017/mkspecs/win32-msvc
+-IC:/projects/trojan-qt5
+-IC:/projects/trojan-qt5/src/plog/include
+-IC:/projects/trojan-qt5/src/QtAwesome/QtAwesome
+-IC:/projects/trojan-qt5/src/shadowsocksr-uvw/src
+-IC:/projects/trojan-qt5/3rd/qhttpserver/src
+-IC:/projects/trojan-qt5/3rd/qhttpserver/http-parser
+-IC:/TQLibraries/ZBar/include
+-IC:/TQLibraries/OpenSSL-Win32/include
+-IC:/TQLibraries/QREncode/include
+-IC:/TQLibraries/WinSparkle/include
+-IC:/TQLibraries/Libsodium/include
+-IC:/TQLibraries/Libuv/include
+-IC:/TQLibraries/Grpc/include
+-IC:/projects/trojan-qt5/src
+-IC:/projects/trojan-qt5/src/dialog
+-IC:/projects/trojan-qt5/src/proxy
+-IC:/projects/trojan-qt5/src/proxyapi
+-IC:/projects/trojan-qt5/src/proxydialog
+-IC:/projects/trojan-qt5/src/systemproxy
+-IC:/projects/trojan-qt5/src/urlscheme
+-IC:/projects/trojan-qt5/src/theme
+-IC:/projects/trojan-qt5/src/pac
+-IC:/projects/trojan-qt5/src/speedplot
+-IC:/projects/trojan-qt5/src/widget
+-IC:/projects/trojan-qt5/src/utils
+-IC:/projects/trojan-qt5/src/validator
+-IC:/projects/trojan-qt5/3rd/trojan-qt5-core
+-IC:/projects/trojan-qt5/3rd/yaml-cpp/include
+-IC:/Qt/5.14.2/msvc2017/include
+-IC:/Qt/5.14.2/msvc2017/include/QtWidgets
+-IC:/Qt/5.14.2/msvc2017/include/QtGui
+-IC:/Qt/5.14.2/msvc2017/include/QtANGLE
+-IC:/Qt/5.14.2/msvc2017/include/QtNetwork
+-IC:/Qt/5.14.2/msvc2017/include/QtCore
+-I.
+-IC:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\ATLMFC\include
+-IC:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.25.28610\include
+-IC:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um
+-IC:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt
+-IC:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\shared
+-IC:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\um
+-IC:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\winrt
+-IC:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\cppwinrt
